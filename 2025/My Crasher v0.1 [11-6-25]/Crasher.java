@@ -12,8 +12,8 @@ public class Crasher extends JFrame {
     Crasher() {
 
         ArrayList<String> texts = new ArrayList<>();
-        texts.add("NIGGER");
-        texts.add("WAKE UP");
+        texts.add("HELLO");
+        texts.add(":O");
 
         String textLabels = texts.get(RDM.nextInt(0, texts.size()));
 
